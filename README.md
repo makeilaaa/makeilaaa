@@ -1,16 +1,42 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Makeilaaa</h1>
 
-<!--
-**makeilaaa/makeilaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Tech Enthusiast • 🚀 Builder • 📈 Lifelong Learner
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me
+
+I love turning ideas into clean, functional, and impactful digital solutions.  
+Passionate about technology, growth, and constantly leveling up my skills.
+
+- 🧠 Problem Solver  
+- ⚙️ Software Developer  
+- 🌱 Always Learning  
+- 🎯 Goal-Oriented  
+
+---
+
+## 🛠️ What I Do
+
+✨ Build projects  
+✨ Explore new technologies  
+✨ Improve my coding skills daily  
+✨ Work on real-world solutions  
+
+---
+
+## 🚀 Current Focus
+
+- Strengthening development skills  
+- Building meaningful projects  
+- Writing cleaner, scalable code  
+
+---
+
+## 📫 Let’s Connect
+
+> “Consistency builds greatness.”
+
+Thanks for stopping by! ⭐
