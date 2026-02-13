@@ -4,14 +4,13 @@
   💻 Tech Enthusiast • 🚀 Builder • 📈 Lifelong Learner
 </p>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="70">
-  <span style="color:#00FFC6;">CybruGhost</span>
-  <img src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif" width="70">
-</h1>
-
 ---
 
+<div align ="center">
+  <img src="https://github.com/chayotic/chayotic/blob/output/github-snake-dark.svg" />
+</div>
+
+---
 ## 🌟 About Me
 
 I love turning ideas into clean, functional, and impactful digital solutions.  
