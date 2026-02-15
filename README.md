@@ -12,7 +12,7 @@
 
 ---
 ## 🌟 About Me
-
+Email: karen7kiara@gmail.com
 I love turning ideas into clean, functional, and impactful digital solutions.  
 Passionate about technology, growth, and constantly leveling up my skills.
 
